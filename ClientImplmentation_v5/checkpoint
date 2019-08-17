@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\ProjectData\\AudioClassifier_v3\\musicDNN.tflearn"
+all_model_checkpoint_paths: "E:\\ProjectData\\AudioClassifier_v3\\musicDNN.tflearn"
