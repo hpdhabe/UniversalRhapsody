@@ -5,7 +5,6 @@ We would realy appreciate some help.
 
 Here's a link to the architecture of howthis stuff works...
 
-http://github.com - automatic!
-[GitHub](https://drive.google.com/file/d/14LebHJ-PU1xYTv9s2fTV0pqI1H9vMOXh/view?usp=sharing)
+[The Link !!!](https://drive.google.com/file/d/14LebHJ-PU1xYTv9s2fTV0pqI1H9vMOXh/view?usp=sharing)
 
 Fell free to contact me anytime.
